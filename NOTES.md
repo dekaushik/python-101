@@ -8,10 +8,10 @@
 
 # Linux Command
 
-`ls` -> list files in current directory. or `ls -lhrt` for more readable format
-`pwd` -> present working directory
-`cd` -> change directory
-`mv` -> move or rename
+`ls` -> list files in current directory. or `ls -lhrt` for more readable format  
+`pwd` -> present working directory  
+`cd` -> change directory  
+`mv` -> move or rename  
 ``
 
 
