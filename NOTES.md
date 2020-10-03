@@ -12,7 +12,7 @@
 `pwd` -> present working directory  
 `cd` -> change directory  
 `mv` -> move or rename  
-``
+
 
 
 # Git Command
@@ -26,3 +26,21 @@ UnStaged Area -> Stage Area -> Commit Area -> Remote Git Origin
 `git push` -> push to remote git server
 `git pull` -> pull from remote git server
 
+
+## Terms
+
+Low Level vs High Level Language
+
+Compiler vs Interpreter
+
+OOPs - Object Oriented Programing
+
+Python - HLL, Interpreted Lang, OOPs
+
+Python 3.7+
+
+inbuilt's or builtin function
+
+magic words --> __somthing__
+
+Static vs Dynamic
