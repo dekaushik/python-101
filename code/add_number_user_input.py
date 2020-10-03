@@ -1,0 +1,1 @@
+# Take two numbers as user input and print addition, subtraction and multiplication of it
