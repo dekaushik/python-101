@@ -65,6 +65,11 @@ Examples of valid identifiers: a123, _n, n_9, etc.
 Examples of invalid identifiers: 1a, n%4, n 9, etc.
 
 
+## Next
+
+1. If and else
+2. List, Dict, Tuples and set
+
 
 
 ## To be Read
